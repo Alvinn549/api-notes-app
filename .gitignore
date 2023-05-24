@@ -1,0 +1,5 @@
+node_modules
+notes-api-webserver.pem
+alvinn549_credentials.csv
+.env
+.prod.env
